@@ -1,1 +1,1 @@
-# pd
+# Aleksandrs Pihurevskis, Kirills Zaicevs
